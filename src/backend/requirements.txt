@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain
+openai
+qdrant-client
+sentence-transformers
+python-multipart
